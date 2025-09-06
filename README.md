@@ -1,7 +1,5 @@
-## Hi there 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haideraljawasim&label=Views&color=D92D20&style=flat" alt="haideraljawasim" />
-</p>
 
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/haideraljawasim)
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb200ajRkZXVkc3BsaWV3aG05N3lqb2ppZ2VzeGhuaTJsN2EzcWxpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/voe9bJ93OgfOOwqzb9/giphy.gif" align="center">
+</div>
